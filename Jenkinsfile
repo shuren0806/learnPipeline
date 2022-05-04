@@ -7,22 +7,18 @@ node {
     /* .. snip .. */
     stage('Build') {
         echo 'Building....'
-	steps {
-		echo 'Build --- steps . . . '
-		// echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-	}
+	echo 'Build --- steps . . . '
+	// echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
     }
+
     stage('Test') {
         echo 'Testing....'
-	steps {
-		echo 'Test --- steps . . . '
-	}
+	echo 'Test --- steps . . . '
     }
+
     stage('Deploy') {
         echo 'Deploying....'
-	steps {
-		echo 'Deploy --- steps . . . '
-	}
+	echo 'Deploy --- steps . . . '
     }
 }
 
