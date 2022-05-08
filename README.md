@@ -7,13 +7,12 @@
 
 
 ## Platforms
-**[`^        back to top        ^`](#)**
-- [Linux](###linux)
-- [Linux2](###linux2)
-- [Linux3](###linux3)
-- [Linux4](###linux4)
-- [Linux5](###linux5)
-- [Linux6](###linux6)
+- [Linux1](#linux1)
+- [Linux2](#linux2)
+- [Linux3](#linux3)
+- [Linux4](#linux4)
+- [Linux5](#linux5)
+- [Linux6](#linux6)
 
 ## Programming Languages
 
@@ -21,7 +20,7 @@
 
 ## Back-End Development
 
-### Linux
+### Linux1
 - [Linux]
 - [Linux]
 - [Linux]
