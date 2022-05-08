@@ -1,5 +1,16 @@
 # learnPipeline
 [Platforms](#platforms)
+[Platforms2](#platforms2)
+[Platforms3](#platforms3)
+[Platforms](#platforms)
+[Platforms](#platforms)
+[Platforms](#platforms)
+[Platforms](#platforms)
+[Platforms](#platforms)
+[Platforms](#platforms)
+[Platforms](#platforms)
+[Platforms](#platforms)
+
 [Programming Languages](#programming-languages)
 
 
