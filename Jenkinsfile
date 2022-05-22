@@ -18,7 +18,7 @@ node {
 
     stage('Deploy') {
         echo 'Deploying....'
-	echo 'Deploy --- steps . . . '
+	echo 'Deploy --- steps . . .   '
     }
 }
 
