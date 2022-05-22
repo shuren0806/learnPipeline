@@ -20,6 +20,7 @@ node {
         echo 'Deploying....'
 	echo 'Deploy --- steps . . .   '
 	ehco '2'
+	echo '3'
     }
 }
 
