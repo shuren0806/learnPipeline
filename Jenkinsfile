@@ -19,6 +19,7 @@ node {
     stage('Deploy') {
         echo 'Deploying....'
 	echo 'Deploy --- steps . . .   '
+	ehco '2'
     }
 }
 
