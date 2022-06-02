@@ -28,6 +28,7 @@ node {
 	echo '8'
 	echo '9'
 	    echo '11'
+	    echo '12'
     }
 }
 
